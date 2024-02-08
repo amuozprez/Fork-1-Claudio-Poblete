@@ -575,7 +575,7 @@ hr{
   .input__form, .textarea{
     width: 40em;
   }
-  img{
+  .img__home{
     display: none;
   }
 }
