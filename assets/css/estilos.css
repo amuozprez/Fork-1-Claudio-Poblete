@@ -575,5 +575,8 @@ hr{
   .input__form, .textarea{
     width: 40em;
   }
+  img{
+    display: none;
+  }
 }
 /* fin edit responsive */
